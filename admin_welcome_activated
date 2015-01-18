@@ -1,0 +1,9 @@
+Subject: Račun aktiviran
+
+Pozdrav {USERNAME},
+
+Vaš račun na "{SITENAME}" aktiviran je od strane administratora. Sada se možete prijaviti.
+
+Vaša je lozinka sigurno pohranjena u našoj bazi podataka te ne može biti povučena. U slučaju da je zaboravite, možete ju promijeniti koristeći e-mail adresu povezanu s ovim računom.
+
+{EMAIL_SIG}
