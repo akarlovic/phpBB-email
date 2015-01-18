@@ -1,0 +1,19 @@
+Subject: Dobrodošli na "{SITENAME}"
+
+{WELCOME_MSG}
+
+Molimo Vas da zadržite ovu poruku. Informacije Vašeg računa su sljedeće:
+
+----------------------------
+Korisničko ime: {USERNAME}
+
+URL foruma: {U_BOARD}
+----------------------------
+
+Trenutno, Vaš je račun neaktivan te će morati biti odobren od strane administratora prie nego što se možete prijaviti. Bit će vam poslana još jedna obavijest kada se ovo dogodi.
+
+Vaša je lozinka sigurno pohranjena u našoj bazi podataka te ne može biti povučena. U slučaju da je zaboravite, možete ju promijeniti koristeći e-mail adresu povezanu s ovim računom.
+
+Hvala Vam na registraciji.
+
+{EMAIL_SIG}
