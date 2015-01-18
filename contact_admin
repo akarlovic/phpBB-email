@@ -1,0 +1,23 @@
+
+Pozdrav {TO_USERNAME},
+
+ovo je poruka poslana preko administracijske kontakt-stranice na "{SITENAME}".
+
+<!-- IF S_IS_REGISTERED -->
+Poruka je poslana od strane računa na stranici.
+Korisničko ime: {FROM_USERNAME}
+E-mail adresa: {FROM_EMAIL_ADDRESS}
+IP adresa: {FROM_IP_ADDRESS}
+Profil: {U_FROM_PROFILE}
+<!-- ELSE -->
+Poruka je poslana od strane gosta koji je dao sljedeće kontakt podatke : 
+Ime: {FROM_USERNAME}
+E-mail adresa: {FROM_EMAIL_ADDRESS}
+IP adresa: {FROM_IP_ADDRESS}
+<!-- ENDIF -->
+
+
+Poruka je sljedeća :
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+{MESSAGE}
