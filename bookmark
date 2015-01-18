@@ -1,0 +1,20 @@
+Subject: Obavijest o dgovoru na temi - "{TOPIC_TITLE}"
+
+Pozdrav {USERNAME},
+
+primate ovu obavijest jer tema koju ste označili kao važnu, "{TOPIC_TITLE}" na "{SITENAME}", primila odgovor tijekom Vaše odsutnosti. Možete pratiti sljedeći link kako biste vidjeli odgovore. Nećete dobivati više obavijesti sve dok ne posjetite temu.
+
+Ako želite pogledati najnoviji post koji je nastao tijekom Vaše odsutnosti, pratite sljedeći link.
+{U_NEWEST_POST}
+
+Ako želite pogledati temu, pratite ovaj link:
+{U_TOPIC}
+
+Ako želite pogledati forum, pratite ovaj link:
+{U_FORUM}
+
+Ako ne želite primati obavijesti o temama ovog foruma koje ste označili kao važne, ažurirajte postavke obavijesti ovdje :
+
+{U_NOTIFICATION_SETTINGS}
+
+{EMAIL_SIG}
