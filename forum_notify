@@ -1,0 +1,19 @@
+Subject: Obavijest o postu na forumu - "{FORUM_NAME}"
+
+Pozdrav {USERNAME},
+
+primate ovu obavijest jer ste gledali forum "{FORUM_NAME}" na "{SITENAME}". Ovaj je forum dobio novi odgovor u temi "{TOPIC_TITLE}"<!-- IF AUTHOR_NAME !== '' --> od strane {AUTHOR_NAME}<!-- ENDIF --> tijekom Vaše odsutnosti. Možete pratiti sljedeći link kako biste pogledali odgovor. Nećete više dobivati obavijesti dok ne pogledate odgovor.
+
+{U_NEWEST_POST}
+
+Ako želite pogledati temu, pratite link:
+{U_TOPIC}
+
+Ako želite pogledati forum, pratite link:
+{U_FORUM}
+
+Ako ne želite pratiti forum, kliknite "Odjavi forum" link koji se nalazi na forumu navedenom iznad, ili pratite sljedeći link:
+
+{U_STOP_WATCHING_FORUM}
+
+{EMAIL_SIG}
