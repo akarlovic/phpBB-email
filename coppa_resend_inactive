@@ -1,0 +1,42 @@
+Subject: Dobrodošli na "{SITENAME}"
+
+{WELCOME_MSG}
+
+U sukladnosti s COPPA, Vaš je račun trenutno neaktivan.
+
+Molimo Vas da ispišete ovu poruku te imate roditeljev ili skrbnikov potpis i datum. Tada ga faxom pošaljite nama :
+
+{FAX_INFO}
+
+ILI pošaljite emailom:
+
+{MAIL_INFO}
+
+------------------------------ IZREŽITE OVDJE ------------------------------
+Dozvola za sudjelovanje na "{SITENAME}" - {U_BOARD}
+
+Korisničko ime: {USERNAME}
+Email adresa: {EMAIL_ADDRESS}
+
+PREGLEDAO SAM INFORMACIJE DANE MENI OD MOJEG DIJETETA TE VOLJNO DAJEM DOZVOLU "{SITENAME}" DA ZADRŽE OVE INFORMACIJE. 
+RAZUMIJEM DA OVE INFORMACIJE MOGU BITI PROMIJENJENE UZ POSJEDOVANJE LOZINKE. 
+RAZUMIJEM DA MOGU ZAHTIJEVATI DA SE PODATCI MAKNU SA "{SITENAME}" U BILO KOJEM TRENUTKU.
+
+
+Roditelj ili skrbnik
+(Vaše ime ovdje): _____________________
+
+(Vaš potpis ovdje): __________________ 
+
+Datum: _______________
+
+------------------------------ CUT HERE ------------------------------
+
+
+Jednom kad administrator zaprimi informacije, Vaš će račun biti odobren i aktiviran.
+
+Vaša je lozinka sigurno pohranjena u našoj bazi podataka te ne može biti povučena. U slučaju da je zaboravite, možete je promijeniti koristeći e-mail adresu povezanu s ovim računom.
+
+Hvala Vam na registraciji.
+
+{EMAIL_SIG}
