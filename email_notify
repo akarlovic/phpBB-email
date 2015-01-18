@@ -1,0 +1,17 @@
+Subject: "{SITENAME}" - Kontakt prijatelja
+
+Pozdrav {TO_USERNAME},
+
+ova poruka poslana je sa "{SITENAME}" od strane {FROM_USERNAME} koji je mislio da biste mogli biti zainteresirani za temu:
+
+{TOPIC_NAME}
+
+Temu možete naći na:
+
+{U_TOPIC}
+
+Poruka od strane {FROM_USERNAME} može biti i uključena dolje. Molimo Vas da imate na umu da poruka nije pregledana od strane forum administratora.Ako se želite žaliti na ovu poruku, kontaktirajte forum administratora na {BOARD_CONTACT}. Molimo vas da citirate zaglavlja kada šaljete poruku.
+
+----------
+
+{MESSAGE}
